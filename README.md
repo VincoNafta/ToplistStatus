@@ -14,7 +14,7 @@ Jednoduchá konfigurácia pre koncového užívateľa
   - V prípade že neviete ako na to, tak stačí vyplniť len hodnoty true/false, podľa toho čo chcete zobraziť a vyplniť hodnoty vašho id a domény na ktorej máte TopList
   pre český TopList(toplist.cz) vyplnte doména .cz a pre slovenský .sk
 
-#Návod na inštaláciu
+# Návod na inštaláciu
 skopirujeme si obsah pocitadlo.php a vložíme na miesto ktoré chceme.
 
 V prípade že neviete nájsť svoje ID skopirujte otvorte stránky toplistu a vyhladajte svoju stránku. ID skopirujte. Napríklad pre túto stránku https://www.toplist.sk/stat/1054982/ by to vypadalo takto. 
